@@ -4,3 +4,4 @@ Remote: https://github.com/<username>/hello-git
 Branch practice by Alice
 Sync test by Alice
 Pull test by Alice
+CI test by Bob
